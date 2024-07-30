@@ -112,3 +112,75 @@ header {
   text-decoration: none;
   color: #fff;
 }
+
+.iFood {
+  position: fixed;
+  right: 0;
+  top: 200px;
+  box-shadow: -10px 10px 10px 0px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: -10px 10px 10px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: -10px 10px 10px 0px rgba(0, 0, 0, 0.75);
+}
+
+#BoasVindas {
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  padding-bottom: 15px;
+  background: #f6f6f6;
+}
+#BoasVindas img {
+  padding: 0 100px;
+}
+
+#TextoBoasVindas {
+  max-width: 600px;
+  padding-right: 100px;
+}
+
+#TextoBoasVindas h4 {
+  text-transform: uppercase;
+  font-size: 16px;
+  margin: 0;
+  padding-top: 20px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+#TextoBoasVindas h3 {
+  text-transform: uppercase;
+  font-weight: 900;
+  color: #e7a200;
+  font-size: 23px;
+  margin-top: 20px;
+  margin-bottom: 0;
+}
+
+#TextoBoasVindas p {
+  margin-bottom: 0;
+}
+
+#Cardapio {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#Cardapio img {
+  padding: 36px 0;
+}
+
+#Cardapio div img {
+  padding: 0;
+}
+
+/* #Cardapio div {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+#Cardapio div img{
+  height: 100%;
+
+} */

@@ -221,3 +221,18 @@ header {
   justify-content: center;
   padding: 40px;
 }
+
+#Icone {
+  display: flex;
+  justify-content: center;
+  gap: 70px;
+  margin: 20px;
+}
+
+.itens {
+  max-width: 250px;
+  text-align: center;
+}
+
+
+

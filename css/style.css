@@ -13,7 +13,7 @@ body {
 }
 
 .bgfundo {
-  background: url(https://placehold.co/1920x1080) no-repeat center/cover;
+  background: url(../img/CapaDoSitee.png) no-repeat center/cover;
   /* background-color: blue; */
   /* background: url(https://placehold.co/1920x1080) */
   /* background-repeat: no-repeat; */
@@ -125,9 +125,7 @@ header {
   top: 200px;
   z-index: 10;
 
-  box-shadow: -10px 10px 10px 0px rgba(0, 0, 0, 0.75);
-  -webkit-box-shadow: -10px 10px 10px 0px rgba(0, 0, 0, 0.75);
-  -moz-box-shadow: -10px 10px 10px 0px rgba(0, 0, 0, 0.75);
+  filter: drop-shadow(-2px 4px 6px black);
 }
 
 #BoasVindas {

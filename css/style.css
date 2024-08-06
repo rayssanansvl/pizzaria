@@ -310,7 +310,7 @@ header {
 }
 
 footer {
-  background: #e7a200;
+  background: url(../img/footerpizza6.png) no-repeat center/cover;;
   min-height: 400px;
   margin-top: -281px;
   color: #fff;
